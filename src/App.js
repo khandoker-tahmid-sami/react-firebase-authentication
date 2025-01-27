@@ -9,7 +9,6 @@ function App() {
       <Routes>
         <Route path='/' element={<SignUpFom/>}/>
         <Route path='login' element={<Login/>}/>
-        <Route path='/react-firebase-authentication' element={<SignUpFom/>}/>
       </Routes>
     </div>
   );
