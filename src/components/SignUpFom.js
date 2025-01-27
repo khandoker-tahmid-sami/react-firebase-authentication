@@ -13,7 +13,7 @@ const SignUpFom = () => {
 
     try{
       const userCredential = await createUserWithEmailAndPassword(auth, user.email, user.password)
-      console.log(user)
+      console.log(userCredential)
     }catch(error){
       console.log(error.message)
     }
