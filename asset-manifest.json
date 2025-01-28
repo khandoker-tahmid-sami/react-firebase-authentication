@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-firebase-crud/static/css/main.606ce5ff.css",
-    "main.js": "/react-firebase-crud/static/js/main.3b5629e2.js",
-    "index.html": "/react-firebase-crud/index.html",
-    "main.606ce5ff.css.map": "/react-firebase-crud/static/css/main.606ce5ff.css.map",
-    "main.3b5629e2.js.map": "/react-firebase-crud/static/js/main.3b5629e2.js.map"
+    "main.css": "/react-firebase-authentication/static/css/main.ca0446c6.css",
+    "main.js": "/react-firebase-authentication/static/js/main.2ec7034d.js",
+    "static/js/488.0c3a8d2b.chunk.js": "/react-firebase-authentication/static/js/488.0c3a8d2b.chunk.js",
+    "index.html": "/react-firebase-authentication/index.html",
+    "main.ca0446c6.css.map": "/react-firebase-authentication/static/css/main.ca0446c6.css.map",
+    "main.2ec7034d.js.map": "/react-firebase-authentication/static/js/main.2ec7034d.js.map",
+    "488.0c3a8d2b.chunk.js.map": "/react-firebase-authentication/static/js/488.0c3a8d2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.606ce5ff.css",
-    "static/js/main.3b5629e2.js"
+    "static/css/main.ca0446c6.css",
+    "static/js/main.2ec7034d.js"
   ]
 }
